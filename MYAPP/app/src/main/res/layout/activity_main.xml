@@ -1,0 +1,1658 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#49A182"
+    tools:context=".MainActivity">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#49A182"
+        tools:context=".MainActivity">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#49A182"
+            tools:context=".MainActivity">
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#49A182"
+                tools:context=".MainActivity">
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#49A182"
+                    tools:context=".MainActivity">
+
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="#49A182"
+                        tools:context=".MainActivity">
+
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="#49A182"
+                            tools:context=".MainActivity">
+
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:background="#49A182"
+                                tools:context=".MainActivity">
+
+
+                                <RelativeLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:background="#49A182"
+                                    tools:context=".MainActivity">
+
+
+                                    <RelativeLayout
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:background="#49A182"
+                                        tools:context=".MainActivity">
+
+
+                                        <RelativeLayout
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:background="#49A182"
+                                            tools:context=".MainActivity">
+
+
+                                            <RelativeLayout
+                                                android:layout_width="match_parent"
+                                                android:layout_height="match_parent"
+                                                android:background="#49A182"
+                                                tools:context=".MainActivity">
+
+
+                                                <RelativeLayout
+                                                    android:layout_width="match_parent"
+                                                    android:layout_height="match_parent"
+                                                    android:background="#49A182"
+                                                    tools:context=".MainActivity">
+
+
+                                                    <Button
+                                                        android:id="@+id/button"
+                                                        android:layout_width="204dp"
+                                                        android:layout_height="70dp"
+                                                        android:layout_alignParentStart="true"
+                                                        android:layout_alignParentTop="true"
+                                                        android:layout_marginStart="120dp"
+                                                        android:layout_marginTop="428dp"
+                                                        android:text="calculator" />
+
+                                                    <ImageView
+                                                        android:id="@+id/imageView"
+                                                        android:layout_width="wrap_content"
+                                                        android:layout_height="wrap_content" />
+
+                                                    <ImageView
+                                                        android:id="@+id/imageView2"
+                                                        android:layout_width="wrap_content"
+                                                        android:layout_height="wrap_content"
+                                                        android:layout_alignParentStart="true"
+                                                        android:layout_alignParentTop="true"
+                                                        android:layout_centerHorizontal="true"
+                                                        android:layout_marginStart="157dp"
+                                                        android:layout_marginTop="113dp"
+                                                        tools:srcCompat="@tools:sample/avatars" />
+
+                                                    <EditText
+                                                        android:id="@+id/editTextTextPersonName"
+                                                        android:layout_width="wrap_content"
+                                                        android:layout_height="wrap_content"
+                                                        android:layout_alignParentStart="true"
+                                                        android:layout_alignParentTop="true"
+                                                        android:layout_marginStart="120dp"
+                                                        android:layout_marginTop="275dp"
+                                                        android:ems="10"
+                                                        android:inputType="textPersonName"
+                                                        android:text="  first namber " />
+
+                                                    <TextView
+                                                        android:layout_width="301dp"
+                                                        android:layout_height="118dp"
+                                                        android:layout_alignParentTop="true"
+                                                        android:layout_alignParentEnd="true"
+                                                        android:layout_marginTop="543dp"
+                                                        android:layout_marginEnd="73dp"
+                                                        android:textSize="35sp" />
+
+                                                    <TextView
+                                                        android:id="@+id/textView2"
+                                                        android:layout_width="299dp"
+                                                        android:layout_height="wrap_content"
+                                                        android:layout_alignParentTop="true"
+                                                        android:layout_alignParentEnd="true"
+                                                        android:layout_marginTop="48dp"
+                                                        android:layout_marginEnd="4dp"
+                                                        android:text="calculatol"
+                                                        android:textSize="50dp" />
+
+                                                    <EditText
+                                                        android:id="@+id/editTextTextPersonName3"
+                                                        android:layout_width="wrap_content"
+                                                        android:layout_height="wrap_content"
+                                                        android:layout_alignParentEnd="true"
+                                                        android:layout_centerVertical="true"
+                                                        android:layout_marginEnd="79dp"
+                                                        android:ems="10"
+                                                        android:inputType="textPersonName"
+                                                        android:text="second number"
+                                                        android:textSize="20dp" />
+
+                                                    <TextView
+                                                        android:id="@+id/textView3"
+                                                        android:layout_width="168dp"
+                                                        android:layout_height="wrap_content"
+                                                        android:layout_alignParentEnd="true"
+                                                        android:layout_alignParentBottom="true"
+                                                        android:layout_marginEnd="51dp"
+                                                        android:layout_marginBottom="171dp"
+                                                        android:text="Total    "
+                                                        android:textSize="30dp" />
+
+                                                    <RelativeLayout
+                                                        android:layout_width="match_parent"
+                                                        android:layout_height="match_parent"
+                                                        android:background="amage"
+                                                        tools:context=".MainActivity">
+
+
+                                                        <RelativeLayout
+                                                            android:layout_width="match_parent"
+                                                            android:layout_height="match_parent"
+                                                            android:background="#49A182"
+                                                            tools:context=".MainActivity">
+
+
+                                                            <Button
+                                                                android:id="@+id/button"
+                                                                android:layout_width="204dp"
+                                                                android:layout_height="70dp"
+                                                                android:layout_alignParentStart="true"
+                                                                android:layout_alignParentTop="true"
+                                                                android:layout_marginStart="120dp"
+                                                                android:layout_marginTop="428dp"
+                                                                android:text="calculator" />
+
+                                                            <ImageView
+                                                                android:id="@+id/imageView"
+                                                                android:layout_width="wrap_content"
+                                                                android:layout_height="wrap_content" />
+
+                                                            <ImageView
+                                                                android:id="@+id/imageView2"
+                                                                android:layout_width="wrap_content"
+                                                                android:layout_height="wrap_content"
+                                                                android:layout_alignParentStart="true"
+                                                                android:layout_alignParentTop="true"
+                                                                android:layout_centerHorizontal="true"
+                                                                android:layout_marginStart="157dp"
+                                                                android:layout_marginTop="113dp"
+                                                                tools:srcCompat="@tools:sample/avatars" />
+
+                                                            <EditText
+                                                                android:id="@+id/editTextTextPersonName"
+                                                                android:layout_width="wrap_content"
+                                                                android:layout_height="wrap_content"
+                                                                android:layout_alignParentStart="true"
+                                                                android:layout_alignParentTop="true"
+                                                                android:layout_marginStart="120dp"
+                                                                android:layout_marginTop="275dp"
+                                                                android:ems="10"
+                                                                android:inputType="textPersonName"
+                                                                android:text="  first namber " />
+
+                                                            <TextView
+                                                                android:layout_width="301dp"
+                                                                android:layout_height="118dp"
+                                                                android:layout_alignParentTop="true"
+                                                                android:layout_alignParentEnd="true"
+                                                                android:layout_marginTop="543dp"
+                                                                android:layout_marginEnd="73dp"
+                                                                android:textSize="35sp" />
+
+                                                            <TextView
+                                                                android:id="@+id/textView2"
+                                                                android:layout_width="299dp"
+                                                                android:layout_height="wrap_content"
+                                                                android:layout_alignParentTop="true"
+                                                                android:layout_alignParentEnd="true"
+                                                                android:layout_marginTop="48dp"
+                                                                android:layout_marginEnd="4dp"
+                                                                android:text="calculatol"
+                                                                android:textSize="50dp" />
+
+                                                            <EditText
+                                                                android:id="@+id/editTextTextPersonName3"
+                                                                android:layout_width="wrap_content"
+                                                                android:layout_height="wrap_content"
+                                                                android:layout_alignParentEnd="true"
+                                                                android:layout_centerVertical="true"
+                                                                android:layout_marginEnd="79dp"
+                                                                android:ems="10"
+                                                                android:inputType="textPersonName"
+                                                                android:text="second number"
+                                                                android:textSize="20dp" />
+
+                                                            <TextView
+                                                                android:id="@+id/textView3"
+                                                                android:layout_width="168dp"
+                                                                android:layout_height="wrap_content"
+                                                                android:layout_alignParentEnd="true"
+                                                                android:layout_alignParentBottom="true"
+                                                                android:layout_marginEnd="51dp"
+                                                                android:layout_marginBottom="171dp"
+                                                                android:text="Total    "
+                                                                android:textSize="30dp" />
+
+                                                            <RelativeLayout
+                                                                android:layout_width="match_parent"
+                                                                android:layout_height="match_parent"
+                                                                android:background="#49A182"
+                                                                tools:context=".MainActivity">
+
+
+                                                                <RelativeLayout
+                                                                    android:layout_width="match_parent"
+                                                                    android:layout_height="match_parent"
+                                                                    android:background="#49A182"
+                                                                    tools:context=".MainActivity">
+
+
+                                                                    <Button
+                                                                        android:id="@+id/button"
+                                                                        android:layout_width="204dp"
+                                                                        android:layout_height="70dp"
+                                                                        android:layout_alignParentStart="true"
+                                                                        android:layout_alignParentTop="true"
+                                                                        android:layout_marginStart="120dp"
+                                                                        android:layout_marginTop="428dp"
+                                                                        android:text="calculator" />
+
+                                                                    <ImageView
+                                                                        android:id="@+id/imageView"
+                                                                        android:layout_width="wrap_content"
+                                                                        android:layout_height="wrap_content" />
+
+                                                                    <ImageView
+                                                                        android:id="@+id/imageView2"
+                                                                        android:layout_width="wrap_content"
+                                                                        android:layout_height="wrap_content"
+                                                                        android:layout_alignParentStart="true"
+                                                                        android:layout_alignParentTop="true"
+                                                                        android:layout_centerHorizontal="true"
+                                                                        android:layout_marginStart="157dp"
+                                                                        android:layout_marginTop="113dp"
+                                                                        tools:srcCompat="@tools:sample/avatars" />
+
+                                                                    <EditText 4
+                                                                        android:id="@+id/editTextTextPersonName"
+                                                                        android:layout_width="wrap_content"
+                                                                        android:layout_height="wrap_content"
+                                                                        android:layout_alignParentStart="true"
+                                                                        android:layout_alignParentTop="true"
+                                                                        android:layout_marginStart="120dp"
+                                                                        android:layout_marginTop="275dp"
+                                                                        android:ems="10"
+                                                                        android:inputType="textPersonName"
+                                                                        android:text="  first namber " />
+
+                                                                    <TextView 4
+                                                                        android:layout_width="301dp"
+                                                                        android:layout_height="118dp"
+                                                                        android:layout_alignParentTop="true"
+                                                                        android:layout_alignParentEnd="true"
+                                                                        android:layout_marginTop="543dp"
+                                                                        android:layout_marginEnd="73dp"
+                                                                        android:textSize="35sp" />
+
+                                                                    <TextView
+                                                                        android:id="@+id/textView2"
+                                                                        android:layout_width="299dp"
+                                                                        android:layout_height="wrap_content"
+                                                                        android:layout_alignParentTop="true"
+                                                                        android:layout_alignParentEnd="true"
+                                                                        android:layout_marginTop="48dp"
+                                                                        android:layout_marginEnd="4dp"
+                                                                        android:text="calculatol"
+                                                                        android:textSize="50dp" />
+
+                                                                    <EditText
+                                                                        android:id="@+id/editTextTextPersonName3"
+                                                                        android:layout_width="wrap_content"
+                                                                        android:layout_height="wrap_content"
+                                                                        android:layout_alignParentEnd="true"
+                                                                        android:layout_centerVertical="true"
+                                                                        android:layout_marginEnd="79dp"
+                                                                        android:ems="10"
+                                                                        android:inputType="textPersonName"
+                                                                        android:text="second number"
+                                                                        android:textSize="20dp" />
+
+                                                                    <TextView 8
+                                                                        android:id="@+id/textView3"
+                                                                        android:layout_width="168dp"
+                                                                        android:layout_height="wrap_content"
+                                                                        android:layout_alignParentEnd="true"
+                                                                        android:layout_alignParentBottom="true"
+                                                                        android:layout_marginEnd="51dp"
+                                                                        android:layout_marginBottom="171dp"
+                                                                        android:text="Total    "
+                                                                        android:textSize="30dp" />
+
+                                                                    <RelativeLayout
+                                                                        android:layout_width="match_parent"
+                                                                        android:layout_height="match_parent"
+                                                                        android:layout_alignParentEnd="true"
+                                                                        android:layout_alignParentBottom="true"
+                                                                        android:layout_marginEnd="0dp"
+                                                                        android:layout_marginBottom="0dp"
+                                                                        android:background="#49A182"
+                                                                        tools:context=".MainActivity">
+
+
+                                                                        <Button calculatr
+                                                                            android:id="@+id/button"
+                                                                            android:layout_width="204dp"
+                                                                            android:layout_height="70dp"
+                                                                            android:layout_alignParentStart="true"
+                                                                            android:layout_alignParentTop="true"
+                                                                            android:layout_marginStart="120dp"
+                                                                            android:layout_marginTop="428dp"
+                                                                            android:text="calculator" />
+
+                                                                        <ImageView
+                                                                            android:id="@+id/imageView"
+                                                                            android:layout_width="wrap_content"
+                                                                            android:layout_height="wrap_content" />
+
+                                                                        <ImageView
+                                                                            android:id="@+id/imageView2"
+                                                                            android:layout_width="wrap_content"
+                                                                            android:layout_height="wrap_content"
+                                                                            android:layout_alignParentStart="true"
+                                                                            android:layout_alignParentTop="true"
+                                                                            android:layout_centerHorizontal="true"
+                                                                            android:layout_marginStart="157dp"
+                                                                            android:layout_marginTop="113dp"
+                                                                            tools:srcCompat="@tools:sample/avatars" />
+
+                                                                        <EditText
+                                                                            android:id="@+id/editTextTextPersonName"
+                                                                            android:layout_width="wrap_content"
+                                                                            android:layout_height="wrap_content"
+                                                                            android:layout_alignParentStart="true"
+                                                                            android:layout_alignParentTop="true"
+                                                                            android:layout_marginStart="120dp"
+                                                                            android:layout_marginTop="275dp"
+                                                                            android:ems="10"
+                                                                            android:inputType="textPersonName"
+                                                                            android:text="  first namber " />
+
+                                                                        <TextView
+                                                                            android:layout_width="301dp"
+                                                                            android:layout_height="118dp"
+                                                                            android:layout_alignParentTop="true"
+                                                                            android:layout_alignParentEnd="true"
+                                                                            android:layout_marginTop="543dp"
+                                                                            android:layout_marginEnd="73dp"
+                                                                            android:textSize="35sp" />
+
+                                                                        <TextView
+                                                                            android:id="@+id/textView2"
+                                                                            android:layout_width="299dp"
+                                                                            android:layout_height="wrap_content"
+                                                                            android:layout_alignParentTop="true"
+                                                                            android:layout_alignParentEnd="true"
+                                                                            android:layout_marginTop="48dp"
+                                                                            android:layout_marginEnd="4dp"
+                                                                            android:text="calculatol"
+                                                                            android:textSize="50dp" />
+
+                                                                        <EditText 4
+                                                                            android:id="@+id/editTextTextPersonName3"
+                                                                            android:layout_width="wrap_content"
+                                                                            android:layout_height="wrap_content"
+                                                                            android:layout_alignParentEnd="true"
+                                                                            android:layout_centerVertical="true"
+                                                                            android:layout_marginEnd="79dp"
+                                                                            android:ems="10"
+                                                                            android:inputType="textPersonName"
+                                                                            android:text="second number"
+                                                                            android:textSize="20dp" />
+
+                                                                        <TextView
+                                                                            android:id="@+id/textView3"
+                                                                            android:layout_width="168dp"
+                                                                            android:layout_height="wrap_content"
+                                                                            android:layout_alignParentEnd="true"
+                                                                            android:layout_alignParentBottom="true"
+                                                                            android:layout_marginEnd="51dp"
+                                                                            android:layout_marginBottom="171dp"
+                                                                            android:text="Total    "
+                                                                            android:textSize="30dp" />
+
+
+                                                                    </RelativeLayout>
+
+
+                                                                </RelativeLayout>
+
+                                                                <Button
+                                                                    android:id="@+id/button"
+                                                                    android:layout_width="204dp"
+                                                                    android:layout_height="70dp"
+                                                                    android:layout_alignParentStart="true"
+                                                                    android:layout_alignParentTop="true"
+                                                                    android:layout_marginStart="120dp"
+                                                                    android:layout_marginTop="428dp"
+                                                                    android:text="calculator" />
+
+                                                                <ImageView
+                                                                    android:id="@+id/imageView"
+                                                                    android:layout_width="wrap_content"
+                                                                    android:layout_height="wrap_content" />
+
+                                                                <ImageView
+                                                                    android:id="@+id/imageView2"
+                                                                    android:layout_width="wrap_content"
+                                                                    android:layout_height="wrap_content"
+                                                                    android:layout_alignParentStart="true"
+                                                                    android:layout_alignParentTop="true"
+                                                                    android:layout_centerHorizontal="true"
+                                                                    android:layout_marginStart="157dp"
+                                                                    android:layout_marginTop="113dp"
+                                                                    tools:srcCompat="@tools:sample/avatars" />
+
+                                                                <EditText
+                                                                    android:id="@+id/editTextTextPersonName"
+                                                                    android:layout_width="wrap_content"
+                                                                    android:layout_height="wrap_content"
+                                                                    android:layout_alignParentStart="true"
+                                                                    android:layout_alignParentTop="true"
+                                                                    android:layout_marginStart="120dp"
+                                                                    android:layout_marginTop="275dp"
+                                                                    android:ems="10"
+                                                                    android:inputType="textPersonName"
+                                                                    android:text="  first namber " />
+
+                                                                <TextView
+                                                                    android:layout_width="301dp"
+                                                                    android:layout_height="118dp"
+                                                                    android:layout_alignParentTop="true"
+                                                                    android:layout_alignParentEnd="true"
+                                                                    android:layout_marginTop="543dp"
+                                                                    android:layout_marginEnd="73dp"
+                                                                    android:textSize="35sp" />
+
+                                                                <TextView
+                                                                    android:id="@+id/textView2"
+                                                                    android:layout_width="299dp"
+                                                                    android:layout_height="wrap_content"
+                                                                    android:layout_alignParentTop="true"
+                                                                    android:layout_alignParentEnd="true"
+                                                                    android:layout_marginTop="48dp"
+                                                                    android:layout_marginEnd="4dp"
+                                                                    android:text="calculatol"
+                                                                    android:textSize="50dp" />
+
+                                                                <EditText
+                                                                    android:id="@+id/editTextTextPersonName3"
+                                                                    android:layout_width="wrap_content"
+                                                                    android:layout_height="wrap_content"
+                                                                    android:layout_alignParentEnd="true"
+                                                                    android:layout_centerVertical="true"
+                                                                    android:layout_marginEnd="79dp"
+                                                                    android:ems="10"
+                                                                    android:inputType="textPersonName"
+                                                                    android:text="second number"
+                                                                    android:textSize="20dp" />
+
+                                                                <TextView
+                                                                    android:id="@+id/textView3"
+                                                                    android:layout_width="168dp"
+                                                                    android:layout_height="wrap_content"
+                                                                    android:layout_alignParentEnd="true"
+                                                                    android:layout_alignParentBottom="true"
+                                                                    android:layout_marginEnd="51dp"
+                                                                    android:layout_marginBottom="171dp"
+                                                                    android:text="Total    "
+                                                                    android:textSize="30dp" />
+
+
+                                                            </RelativeLayout>
+
+
+                                                        </RelativeLayout>
+
+                                                        <Button
+                                                            android:id="@+id/button"
+                                                            android:layout_width="204dp"
+                                                            android:layout_height="70dp"
+                                                            android:layout_alignParentStart="true"
+                                                            android:layout_alignParentTop="true"
+                                                            android:layout_marginStart="120dp"
+                                                            android:layout_marginTop="428dp"
+                                                            android:text="calculator" />
+
+                                                        <ImageView
+                                                            android:id="@+id/imageView"
+                                                            android:layout_width="wrap_content"
+                                                            android:layout_height="wrap_content" />
+
+                                                        <ImageView
+                                                            android:id="@+id/imageView2"
+                                                            android:layout_width="wrap_content"
+                                                            android:layout_height="wrap_content"
+                                                            android:layout_alignParentStart="true"
+                                                            android:layout_alignParentTop="true"
+                                                            android:layout_centerHorizontal="true"
+                                                            android:layout_marginStart="157dp"
+                                                            android:layout_marginTop="113dp"
+                                                            tools:srcCompat="@tools:sample/avatars" />
+
+                                                        <EditText
+                                                            android:id="@+id/editTextTextPersonName"
+                                                            android:layout_width="wrap_content"
+                                                            android:layout_height="wrap_content"
+                                                            android:layout_alignParentStart="true"
+                                                            android:layout_alignParentTop="true"
+                                                            android:layout_marginStart="120dp"
+                                                            android:layout_marginTop="275dp"
+                                                            android:ems="10"
+                                                            android:inputType="textPersonName"
+                                                            android:text="  first namber " />
+
+                                                        <TextView
+                                                            android:layout_width="301dp"
+                                                            android:layout_height="118dp"
+                                                            android:layout_alignParentTop="true"
+                                                            android:layout_alignParentEnd="true"
+                                                            android:layout_marginTop="543dp"
+                                                            android:layout_marginEnd="73dp"
+                                                            android:textSize="35sp" />
+
+                                                        <TextView
+                                                            android:id="@+id/textView2"
+                                                            android:layout_width="299dp"
+                                                            android:layout_height="wrap_content"
+                                                            android:layout_alignParentTop="true"
+                                                            android:layout_alignParentEnd="true"
+                                                            android:layout_marginTop="48dp"
+                                                            android:layout_marginEnd="4dp"
+                                                            android:text="calculatol"
+                                                            android:textSize="50dp" />
+
+                                                        <EditText
+                                                            android:id="@+id/editTextTextPersonName3"
+                                                            android:layout_width="wrap_content"
+                                                            android:layout_height="wrap_content"
+                                                            android:layout_alignParentEnd="true"
+                                                            android:layout_centerVertical="true"
+                                                            android:layout_marginEnd="79dp"
+                                                            android:ems="10"
+                                                            android:inputType="textPersonName"
+                                                            android:text="second number"
+                                                            android:textSize="20dp" />
+
+                                                        <TextView
+                                                            android:id="@+id/textView3"
+                                                            android:layout_width="168dp"
+                                                            android:layout_height="wrap_content"
+                                                            android:layout_alignParentEnd="true"
+                                                            android:layout_alignParentBottom="true"
+                                                            android:layout_marginEnd="51dp"
+                                                            android:layout_marginBottom="171dp"
+                                                            android:text="Total    "
+                                                            android:textSize="30dp" />
+
+
+                                                    </RelativeLayout>
+
+
+                                                </RelativeLayout>
+
+                                                <Button
+                                                    android:id="@+id/button"
+                                                    android:layout_width="204dp"
+                                                    android:layout_height="70dp"
+                                                    android:layout_alignParentStart="true"
+                                                    android:layout_alignParentTop="true"
+                                                    android:layout_marginStart="120dp"
+                                                    android:layout_marginTop="428dp"
+                                                    android:text="calculator" />
+
+                                                <ImageView
+                                                    android:id="@+id/imageView"
+                                                    android:layout_width="wrap_content"
+                                                    android:layout_height="wrap_content" />
+
+                                                <ImageView
+                                                    android:id="@+id/imageView2"
+                                                    android:layout_width="wrap_content"
+                                                    android:layout_height="wrap_content"
+                                                    android:layout_alignParentStart="true"
+                                                    android:layout_alignParentTop="true"
+                                                    android:layout_centerHorizontal="true"
+                                                    android:layout_marginStart="157dp"
+                                                    android:layout_marginTop="113dp"
+                                                    tools:srcCompat="@tools:sample/avatars" />
+
+                                                <EditText
+                                                    android:id="@+id/editTextTextPersonName"
+                                                    android:layout_width="wrap_content"
+                                                    android:layout_height="wrap_content"
+                                                    android:layout_alignParentStart="true"
+                                                    android:layout_alignParentTop="true"
+                                                    android:layout_marginStart="120dp"
+                                                    android:layout_marginTop="275dp"
+                                                    android:ems="10"
+                                                    android:inputType="textPersonName"
+                                                    android:text="  first namber " />
+
+                                                <TextView
+                                                    android:layout_width="301dp"
+                                                    android:layout_height="118dp"
+                                                    android:layout_alignParentTop="true"
+                                                    android:layout_alignParentEnd="true"
+                                                    android:layout_marginTop="543dp"
+                                                    android:layout_marginEnd="73dp"
+                                                    android:textSize="35sp" />
+
+                                                <TextView
+                                                    android:id="@+id/textView2"
+                                                    android:layout_width="299dp"
+                                                    android:layout_height="wrap_content"
+                                                    android:layout_alignParentTop="true"
+                                                    android:layout_alignParentEnd="true"
+                                                    android:layout_marginTop="48dp"
+                                                    android:layout_marginEnd="4dp"
+                                                    android:text="calculatol"
+                                                    android:textSize="50dp" />
+
+                                                <EditText
+                                                    android:id="@+id/editTextTextPersonName3"
+                                                    android:layout_width="wrap_content"
+                                                    android:layout_height="wrap_content"
+                                                    android:layout_alignParentEnd="true"
+                                                    android:layout_centerVertical="true"
+                                                    android:layout_marginEnd="79dp"
+                                                    android:ems="10"
+                                                    android:inputType="textPersonName"
+                                                    android:text="second number"
+                                                    android:textSize="20dp" />
+
+                                                <TextView
+                                                    android:id="@+id/textView3"
+                                                    android:layout_width="168dp"
+                                                    android:layout_height="wrap_content"
+                                                    android:layout_alignParentEnd="true"
+                                                    android:layout_alignParentBottom="true"
+                                                    android:layout_marginEnd="51dp"
+                                                    android:layout_marginBottom="171dp"
+                                                    android:text="Total    "
+                                                    android:textSize="30dp" />
+
+
+                                            </RelativeLayout>
+
+                                            <Button
+                                                android:id="@+id/button"
+                                                android:layout_width="204dp"
+                                                android:layout_height="70dp"
+                                                android:layout_alignParentStart="true"
+                                                android:layout_alignParentTop="true"
+                                                android:layout_marginStart="120dp"
+                                                android:layout_marginTop="428dp"
+                                                android:text="calculator" />
+
+                                            <ImageView
+                                                android:id="@+id/imageView"
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content" />
+
+                                            <ImageView
+                                                android:id="@+id/imageView2"
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:layout_alignParentStart="true"
+                                                android:layout_alignParentTop="true"
+                                                android:layout_centerHorizontal="true"
+                                                android:layout_marginStart="157dp"
+                                                android:layout_marginTop="113dp"
+                                                tools:srcCompat="@tools:sample/avatars" />
+
+                                            <EditText
+                                                android:id="@+id/editTextTextPersonName"
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:layout_alignParentStart="true"
+                                                android:layout_alignParentTop="true"
+                                                android:layout_marginStart="120dp"
+                                                android:layout_marginTop="275dp"
+                                                android:ems="10"
+                                                android:inputType="textPersonName"
+                                                android:text="  first namber " />
+
+                                            <TextView
+                                                android:layout_width="301dp"
+                                                android:layout_height="118dp"
+                                                android:layout_alignParentTop="true"
+                                                android:layout_alignParentEnd="true"
+                                                android:layout_marginTop="543dp"
+                                                android:layout_marginEnd="73dp"
+                                                android:textSize="35sp" />
+
+                                            <TextView
+                                                android:id="@+id/textView2"
+                                                android:layout_width="299dp"
+                                                android:layout_height="wrap_content"
+                                                android:layout_alignParentTop="true"
+                                                android:layout_alignParentEnd="true"
+                                                android:layout_marginTop="48dp"
+                                                android:layout_marginEnd="4dp"
+                                                android:text="calculatol"
+                                                android:textSize="50dp" />
+
+                                            <EditText
+                                                android:id="@+id/editTextTextPersonName3"
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:layout_alignParentEnd="true"
+                                                android:layout_centerVertical="true"
+                                                android:layout_marginEnd="79dp"
+                                                android:ems="10"
+                                                android:inputType="textPersonName"
+                                                android:text="second number"
+                                                android:textSize="20dp" />
+
+                                            <TextView
+                                                android:id="@+id/textView3"
+                                                android:layout_width="168dp"
+                                                android:layout_height="wrap_content"
+                                                android:layout_alignParentEnd="true"
+                                                android:layout_alignParentBottom="true"
+                                                android:layout_marginEnd="51dp"
+                                                android:layout_marginBottom="171dp"
+                                                android:text="Total    "
+                                                android:textSize="30dp" />
+
+
+                                        </RelativeLayout>
+
+                                        <Button
+                                            android:id="@+id/button"
+                                            android:layout_width="204dp"
+                                            android:layout_height="70dp"
+                                            android:layout_alignParentStart="true"
+                                            android:layout_alignParentTop="true"
+                                            android:layout_marginStart="120dp"
+                                            android:layout_marginTop="428dp"
+                                            android:text="calculator" />
+
+                                        <ImageView
+                                            android:id="@+id/imageView"
+                                            android:layout_width="wrap_content"
+                                            android:layout_height="wrap_content" />
+
+                                        <ImageView
+                                            android:id="@+id/imageView2"
+                                            android:layout_width="wrap_content"
+                                            android:layout_height="wrap_content"
+                                            android:layout_alignParentStart="true"
+                                            android:layout_alignParentTop="true"
+                                            android:layout_centerHorizontal="true"
+                                            android:layout_marginStart="157dp"
+                                            android:layout_marginTop="113dp"
+                                            tools:srcCompat="@tools:sample/avatars" />
+
+                                        <EditText
+                                            android:id="@+id/editTextTextPersonName"
+                                            android:layout_width="wrap_content"
+                                            android:layout_height="wrap_content"
+                                            android:layout_alignParentStart="true"
+                                            android:layout_alignParentTop="true"
+                                            android:layout_marginStart="120dp"
+                                            android:layout_marginTop="275dp"
+                                            android:ems="10"
+                                            android:inputType="textPersonName"
+                                            android:text="  first namber " />
+
+                                        <TextView
+                                            android:layout_width="301dp"
+                                            android:layout_height="118dp"
+                                            android:layout_alignParentTop="true"
+                                            android:layout_alignParentEnd="true"
+                                            android:layout_marginTop="543dp"
+                                            android:layout_marginEnd="73dp"
+                                            android:textSize="35sp" />
+
+                                        <TextView
+                                            android:id="@+id/textView2"
+                                            android:layout_width="299dp"
+                                            android:layout_height="wrap_content"
+                                            android:layout_alignParentTop="true"
+                                            android:layout_alignParentEnd="true"
+                                            android:layout_marginTop="48dp"
+                                            android:layout_marginEnd="4dp"
+                                            android:text="calculatol"
+                                            android:textSize="50dp" />
+
+                                        <EditText
+                                            android:id="@+id/editTextTextPersonName3"
+                                            android:layout_width="wrap_content"
+                                            android:layout_height="wrap_content"
+                                            android:layout_alignParentEnd="true"
+                                            android:layout_centerVertical="true"
+                                            android:layout_marginEnd="79dp"
+                                            android:ems="10"
+                                            android:inputType="textPersonName"
+                                            android:text="second number"
+                                            android:textSize="20dp" />
+
+                                        <TextView
+                                            android:id="@+id/textView3"
+                                            android:layout_width="168dp"
+                                            android:layout_height="wrap_content"
+                                            android:layout_alignParentEnd="true"
+                                            android:layout_alignParentBottom="true"
+                                            android:layout_marginEnd="51dp"
+                                            android:layout_marginBottom="171dp"
+                                            android:text="Total    "
+                                            android:textSize="30dp" />
+
+
+                                    </RelativeLayout>
+
+                                    <Button
+                                        android:id="@+id/button"
+                                        android:layout_width="204dp"
+                                        android:layout_height="70dp"
+                                        android:layout_alignParentStart="true"
+                                        android:layout_alignParentTop="true"
+                                        android:layout_marginStart="120dp"
+                                        android:layout_marginTop="428dp"
+                                        android:text="calculator" />
+
+                                    <ImageView
+                                        android:id="@+id/imageView"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content" />
+
+                                    <ImageView
+                                        android:id="@+id/imageView2"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_alignParentStart="true"
+                                        android:layout_alignParentTop="true"
+                                        android:layout_centerHorizontal="true"
+                                        android:layout_marginStart="157dp"
+                                        android:layout_marginTop="113dp"
+                                        tools:srcCompat="@tools:sample/avatars" />
+
+                                    <EditText
+                                        android:id="@+id/editTextTextPersonName"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_alignParentStart="true"
+                                        android:layout_alignParentTop="true"
+                                        android:layout_marginStart="120dp"
+                                        android:layout_marginTop="275dp"
+                                        android:ems="10"
+                                        android:inputType="textPersonName"
+                                        android:text="  first namber " />
+
+                                    <TextView
+                                        android:layout_width="301dp"
+                                        android:layout_height="118dp"
+                                        android:layout_alignParentTop="true"
+                                        android:layout_alignParentEnd="true"
+                                        android:layout_marginTop="543dp"
+                                        android:layout_marginEnd="73dp"
+                                        android:textSize="35sp" />
+
+                                    <TextView
+                                        android:id="@+id/textView2"
+                                        android:layout_width="299dp"
+                                        android:layout_height="wrap_content"
+                                        android:layout_alignParentTop="true"
+                                        android:layout_alignParentEnd="true"
+                                        android:layout_marginTop="48dp"
+                                        android:layout_marginEnd="4dp"
+                                        android:text="calculatol"
+                                        android:textSize="50dp" />
+
+                                    <EditText
+                                        android:id="@+id/editTextTextPersonName3"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_alignParentEnd="true"
+                                        android:layout_centerVertical="true"
+                                        android:layout_marginEnd="79dp"
+                                        android:ems="10"
+                                        android:inputType="textPersonName"
+                                        android:text="second number"
+                                        android:textSize="20dp" />
+
+                                    <TextView
+                                        android:id="@+id/textView3"
+                                        android:layout_width="168dp"
+                                        android:layout_height="wrap_content"
+                                        android:layout_alignParentEnd="true"
+                                        android:layout_alignParentBottom="true"
+                                        android:layout_marginEnd="51dp"
+                                        android:layout_marginBottom="171dp"
+                                        android:text="Total    "
+                                        android:textSize="30dp" />
+
+
+                                </RelativeLayout>
+
+                                <Button
+                                    android:id="@+id/button"
+                                    android:layout_width="204dp"
+                                    android:layout_height="70dp"
+                                    android:layout_alignParentStart="true"
+                                    android:layout_alignParentTop="true"
+                                    android:layout_marginStart="120dp"
+                                    android:layout_marginTop="428dp"
+                                    android:text="calculator" />
+
+                                <ImageView
+                                    android:id="@+id/imageView"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content" />
+
+                                <ImageView
+                                    android:id="@+id/imageView2"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_alignParentStart="true"
+                                    android:layout_alignParentTop="true"
+                                    android:layout_centerHorizontal="true"
+                                    android:layout_marginStart="157dp"
+                                    android:layout_marginTop="113dp"
+                                    tools:srcCompat="@tools:sample/avatars" />
+
+                                <EditText
+                                    android:id="@+id/editTextTextPersonName"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_alignParentStart="true"
+                                    android:layout_alignParentTop="true"
+                                    android:layout_marginStart="120dp"
+                                    android:layout_marginTop="275dp"
+                                    android:ems="10"
+                                    android:inputType="textPersonName"
+                                    android:text="  first namber " />
+
+                                <TextView
+                                    android:layout_width="301dp"
+                                    android:layout_height="118dp"
+                                    android:layout_alignParentTop="true"
+                                    android:layout_alignParentEnd="true"
+                                    android:layout_marginTop="543dp"
+                                    android:layout_marginEnd="73dp"
+                                    android:textSize="35sp" />
+
+                                <TextView
+                                    android:id="@+id/textView2"
+                                    android:layout_width="299dp"
+                                    android:layout_height="wrap_content"
+                                    android:layout_alignParentTop="true"
+                                    android:layout_alignParentEnd="true"
+                                    android:layout_marginTop="48dp"
+                                    android:layout_marginEnd="4dp"
+                                    android:text="calculatol"
+                                    android:textSize="50dp" />
+
+                                <EditText
+                                    android:id="@+id/editTextTextPersonName3"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_alignParentEnd="true"
+                                    android:layout_centerVertical="true"
+                                    android:layout_marginEnd="79dp"
+                                    android:ems="10"
+                                    android:inputType="textPersonName"
+                                    android:text="second number"
+                                    android:textSize="20dp" />
+
+                                <TextView
+                                    android:id="@+id/textView3"
+                                    android:layout_width="168dp"
+                                    android:layout_height="wrap_content"
+                                    android:layout_alignParentEnd="true"
+                                    android:layout_alignParentBottom="true"
+                                    android:layout_marginEnd="51dp"
+                                    android:layout_marginBottom="171dp"
+                                    android:text="Total    "
+                                    android:textSize="30dp" />
+
+
+                            </RelativeLayout>
+
+                            <Button
+                                android:id="@+id/button"
+                                android:layout_width="204dp"
+                                android:layout_height="70dp"
+                                android:layout_alignParentStart="true"
+                                android:layout_alignParentTop="true"
+                                android:layout_marginStart="120dp"
+                                android:layout_marginTop="428dp"
+                                android:text="calculator" />
+
+                            <ImageView
+                                android:id="@+id/imageView"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content" />
+
+                            <ImageView
+                                android:id="@+id/imageView2"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentStart="true"
+                                android:layout_alignParentTop="true"
+                                android:layout_centerHorizontal="true"
+                                android:layout_marginStart="157dp"
+                                android:layout_marginTop="113dp"
+                                tools:srcCompat="@tools:sample/avatars" />
+
+                            <EditText
+                                android:id="@+id/editTextTextPersonName"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentStart="true"
+                                android:layout_alignParentTop="true"
+                                android:layout_marginStart="120dp"
+                                android:layout_marginTop="275dp"
+                                android:ems="10"
+                                android:inputType="textPersonName"
+                                android:text="  first namber " />
+
+                            <TextView
+                                android:layout_width="301dp"
+                                android:layout_height="118dp"
+                                android:layout_alignParentTop="true"
+                                android:layout_alignParentEnd="true"
+                                android:layout_marginTop="543dp"
+                                android:layout_marginEnd="73dp"
+                                android:textSize="35sp" />
+
+                            <TextView
+                                android:id="@+id/textView2"
+                                android:layout_width="299dp"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentTop="true"
+                                android:layout_alignParentEnd="true"
+                                android:layout_marginTop="48dp"
+                                android:layout_marginEnd="4dp"
+                                android:text="calculatol"
+                                android:textSize="50dp" />
+
+                            <EditText
+                                android:id="@+id/editTextTextPersonName3"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentEnd="true"
+                                android:layout_centerVertical="true"
+                                android:layout_marginEnd="79dp"
+                                android:ems="10"
+                                android:inputType="textPersonName"
+                                android:text="second number"
+                                android:textSize="20dp" />
+
+                            <TextView
+                                android:id="@+id/textView3"
+                                android:layout_width="168dp"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentEnd="true"
+                                android:layout_alignParentBottom="true"
+                                android:layout_marginEnd="51dp"
+                                android:layout_marginBottom="171dp"
+                                android:text="Total    "
+                                android:textSize="30dp" />
+
+
+                        </RelativeLayout>
+
+                        <Button
+                            android:id="@+id/button"
+                            android:layout_width="204dp"
+                            android:layout_height="70dp"
+                            android:layout_alignParentStart="true"
+                            android:layout_alignParentTop="true"
+                            android:layout_marginStart="120dp"
+                            android:layout_marginTop="428dp"
+                            android:text="calculator" />
+
+                        <ImageView
+                            android:id="@+id/imageView"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+                        <ImageView
+                            android:id="@+id/imageView2"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentStart="true"
+                            android:layout_alignParentTop="true"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginStart="157dp"
+                            android:layout_marginTop="113dp"
+                            tools:srcCompat="@tools:sample/avatars" />
+
+                        <EditText
+                            android:id="@+id/editTextTextPersonName"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentStart="true"
+                            android:layout_alignParentTop="true"
+                            android:layout_marginStart="120dp"
+                            android:layout_marginTop="275dp"
+                            android:ems="10"
+                            android:inputType="textPersonName"
+                            android:text="  first namber " />
+
+                        <TextView
+                            android:layout_width="301dp"
+                            android:layout_height="118dp"
+                            android:layout_alignParentTop="true"
+                            android:layout_alignParentEnd="true"
+                            android:layout_marginTop="543dp"
+                            android:layout_marginEnd="73dp"
+                            android:textSize="35sp" />
+
+                        <TextView
+                            android:id="@+id/textView2"
+                            android:layout_width="299dp"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentTop="true"
+                            android:layout_alignParentEnd="true"
+                            android:layout_marginTop="48dp"
+                            android:layout_marginEnd="4dp"
+                            android:text="calculatol"
+                            android:textSize="50dp" />
+
+                        <EditText
+                            android:id="@+id/editTextTextPersonName3"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentEnd="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginEnd="79dp"
+                            android:ems="10"
+                            android:inputType="textPersonName"
+                            android:text="second number"
+                            android:textSize="20dp" />
+
+                        <TextView
+                            android:id="@+id/textView3"
+                            android:layout_width="168dp"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentEnd="true"
+                            android:layout_alignParentBottom="true"
+                            android:layout_marginEnd="51dp"
+                            android:layout_marginBottom="171dp"
+                            android:text="Total    "
+                            android:textSize="30dp" />
+
+
+                    </RelativeLayout>
+
+                    <Button
+                        android:id="@+id/button"
+                        android:layout_width="204dp"
+                        android:layout_height="70dp"
+                        android:layout_alignParentStart="true"
+                        android:layout_alignParentTop="true"
+                        android:layout_marginStart="120dp"
+                        android:layout_marginTop="428dp"
+                        android:text="calculator" />
+
+                    <ImageView
+                        android:id="@+id/imageView"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                    <ImageView
+                        android:id="@+id/imageView2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentStart="true"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginStart="157dp"
+                        android:layout_marginTop="113dp"
+                        tools:srcCompat="@tools:sample/avatars" />
+
+                    <EditText
+                        android:id="@+id/editTextTextPersonName"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentStart="true"
+                        android:layout_alignParentTop="true"
+                        android:layout_marginStart="120dp"
+                        android:layout_marginTop="275dp"
+                        android:ems="10"
+                        android:inputType="textPersonName"
+                        android:text="  first namber " />
+
+                    <TextView
+                        android:layout_width="301dp"
+                        android:layout_height="118dp"
+                        android:layout_alignParentTop="true"
+                        android:layout_alignParentEnd="true"
+                        android:layout_marginTop="543dp"
+                        android:layout_marginEnd="73dp"
+                        android:textSize="35sp" />
+
+                    <TextView
+                        android:id="@+id/textView2"
+                        android:layout_width="299dp"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="true"
+                        android:layout_alignParentEnd="true"
+                        android:layout_marginTop="48dp"
+                        android:layout_marginEnd="4dp"
+                        android:text="calculatol"
+                        android:textSize="50dp" />
+
+                    <EditText
+                        android:id="@+id/editTextTextPersonName3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentEnd="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginEnd="79dp"
+                        android:ems="10"
+                        android:inputType="textPersonName"
+                        android:text="second number"
+                        android:textSize="20dp" />
+
+                    <TextView
+                        android:id="@+id/textView3"
+                        android:layout_width="168dp"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentBottom="true"
+                        android:layout_marginEnd="51dp"
+                        android:layout_marginBottom="171dp"
+                        android:text="Total    "
+                        android:textSize="30dp" />
+
+
+                </RelativeLayout>
+
+                <Button
+                    android:id="@+id/button"
+                    android:layout_width="204dp"
+                    android:layout_height="70dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="120dp"
+                    android:layout_marginTop="428dp"
+                    android:text="calculator" />
+
+                <ImageView
+                    android:id="@+id/imageView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <ImageView
+                    android:id="@+id/imageView2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginStart="157dp"
+                    android:layout_marginTop="113dp"
+                    tools:srcCompat="@tools:sample/avatars" />
+
+                <EditText
+                    android:id="@+id/editTextTextPersonName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="120dp"
+                    android:layout_marginTop="275dp"
+                    android:ems="10"
+                    android:inputType="textPersonName"
+                    android:text="  first namber " />
+
+                <TextView
+                    android:layout_width="301dp"
+                    android:layout_height="118dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginTop="543dp"
+                    android:layout_marginEnd="73dp"
+                    android:textSize="35sp" />
+
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="299dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginTop="48dp"
+                    android:layout_marginEnd="4dp"
+                    android:text="calculatol"
+                    android:textSize="50dp" />
+
+                <EditText
+                    android:id="@+id/editTextTextPersonName3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginEnd="79dp"
+                    android:ems="10"
+                    android:inputType="textPersonName"
+                    android:text="second number"
+                    android:textSize="20dp" />
+
+                <TextView
+                    android:id="@+id/textView3"
+                    android:layout_width="168dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginEnd="51dp"
+                    android:layout_marginBottom="171dp"
+                    android:text="Total    "
+                    android:textSize="30dp" />
+
+
+            </RelativeLayout>
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="204dp"
+                android:layout_height="70dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="120dp"
+                android:layout_marginTop="428dp"
+                android:text="calculator" />
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginStart="157dp"
+                android:layout_marginTop="113dp"
+                tools:srcCompat="@tools:sample/avatars" />
+
+            <EditText
+                f = "4";
+                android:id="@+id/editTextTextPersonName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="120dp"
+                android:layout_marginTop="275dp"
+                android:ems="10"
+                android:inputType="textPersonName"
+                android:text="  first namber " />
+
+            <TextView
+                android:layout_width="301dp"
+                android:layout_height="118dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginTop="543dp"
+                android:layout_marginEnd="73dp"
+                android:textSize="35sp" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="299dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginTop="48dp"
+                android:layout_marginEnd="4dp"
+                android:text="calculatol"
+                android:textSize="50dp" />
+
+            <EditText
+                s = "4" ;
+                android:id="@+id/editTextTextPersonName3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:layout_marginEnd="79dp"
+                android:ems="10"
+                android:inputType="textPersonName"
+                android:text="second number"
+                android:textSize="20dp" />
+
+            <TextView
+                if f=4 ,s=4
+            android:print("8");
+                android:id="@+id/textView3"
+                android:layout_width="168dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginEnd="51dp"
+                android:layout_marginBottom="171dp"
+                android:text="Total    "
+                android:textSize="30dp" />
+
+
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="204dp"
+            android:layout_height="70dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="120dp"
+            android:layout_marginTop="428dp"
+            android:text="calculator" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="157dp"
+            android:layout_marginTop="113dp"
+            tools:srcCompat="@tools:sample/avatars" />
+
+        <EditText
+            android:id="@+id/editTextTextPersonName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="120dp"
+            android:layout_marginTop="275dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text=" 4 " />
+
+        <TextView
+            android:layout_width="301dp"
+            android:layout_height="118dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="543dp"
+            android:layout_marginEnd="73dp"
+            android:textSize="35sp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="299dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="48dp"
+            android:layout_marginEnd="4dp"
+            android:text="calculatol"
+            android:textSize="50dp" />
+
+        <EditText
+            android:id="@+id/editTextTextPersonName3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="79dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="4"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="168dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="51dp"
+            android:layout_marginBottom="171dp"
+            android:text="8  "
+            android:textSize="30dp" />
+
+
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="204dp"
+        android:layout_height="70dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="120dp"
+        android:layout_marginTop="428dp"
+        android:text="calculator" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="157dp"
+        android:layout_marginTop="113dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <EditText 4
+        android:id="@+id/editTextTextPersonName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="120dp"
+        android:layout_marginTop="275dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="  first namber " />
+
+    <TextView
+        android:layout_width="301dp"
+        android:layout_height="118dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="543dp"
+        android:layout_marginEnd="73dp"
+        android:textSize="35sp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="299dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="48dp"
+        android:layout_marginEnd="4dp"
+        android:text="calculatol"
+        android:textSize="50dp" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginEnd="79dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:textSize="20dp"
+        android:text="second number" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="168dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="51dp"
+        android:layout_marginBottom="171dp"
+        android:text="Total    "
+        android:textSize="30dp" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="130dp"
+        android:layout_marginEnd="123dp"
+        app:srcCompat="@android:drawable/ic_menu_help" />
+
+
+</RelativeLayout>
